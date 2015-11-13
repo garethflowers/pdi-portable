@@ -1,2 +1,1 @@
-# Prevent end-of-line normalisation
-* -text
+*.jar filter=lfs -crlf
