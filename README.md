@@ -10,7 +10,7 @@ PDIPortable is an open source database packaged as a portable app, so you can ru
 
 ## System Requirements
 
-* Microsoft Windows 8, 7, Vista or XP.
+* Microsoft Windows XP or later.
 * [PortableApps.com Platform](http://portableapps.com/download) (Optional)
 
 ## Credits
