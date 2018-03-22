@@ -1,6 +1,6 @@
 # Pentaho Data Integration (PDI) Portable
 
-PDIPortable is an open source database packaged as a portable app, so you can run a full copy of the Pentaho Data Integration (Kettle) application on your iPod, USB flash drive, portable hard drive, etc. It has all the same features as Pentacho Data Integration, plus, it leaves no personal information behind on the machine you run it on, so you can take it with you wherever you go.
+PDIPortable is an open source database packaged as a portable app, so you can run a full copy of the Pentaho Data Integration (Kettle) application on your iPod, USB flash drive, portable hard drive, etc. It has all the same features as Pentaho Data Integration, plus, it leaves no personal information behind on the machine you run it on, so you can take it with you wherever you go.
 
 ## Features
 * No installation required. Simply download, extract and run!
