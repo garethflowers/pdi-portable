@@ -15,9 +15,9 @@ PDIPortable is an open source database packaged as a portable app, so you can ru
 
 ## Credits
 
-* PDI Portable is a redistribution of the [Pentaho Data integration (Kettle)](http://community.pentaho.com/projects/data-integration/) application.
+* PDI Portable is a redistribution of the [Pentaho Data integration (Kettle)](https://community.hds.com/docs/DOC-1009855-data-integration-kettle) application.
 
 ## License
 
 * Portable application code released under [the MIT license](LICENSE).
-* The Pentaho Data Integration application is released under [the Apache v2.0 License](https://github.com/pentaho/pentaho-kettle/blob/master/LICENSE.txt).
+* The Pentaho Data Integration application is released under [the Apache v2.0 License](https://raw.githubusercontent.com/pentaho/pentaho-kettle/master/LICENSE.txt).
